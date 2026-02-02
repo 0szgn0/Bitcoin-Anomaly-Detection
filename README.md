@@ -31,6 +31,7 @@ After optimizing the model, I tested it on unseen data. Here are the metrics for
 
 ### Top Features
 I also analyzed which features were most important. It turns out that specific transaction patterns (Feature V23, V55, etc.) are strong indicators of illegal activity.
+
 <img width="1189" height="590" alt="indir (1)" src="https://github.com/user-attachments/assets/b354b244-30bb-4943-84ff-a99ff5af0261" />
 
 
@@ -40,7 +41,7 @@ I also analyzed which features were most important. It turns out that specific t
     ```bash
     pip install -r requirements.txt
     ```
-3.  Open the `Bitcoin_AML_Analysis.ipynb` notebook to see the code and analysis step-by-step.
+3.  Open the `The_Clean_Data_And_The_Model` notebook to see the code and in the notebook called `Hyperparameter_Optimization` you will see the optimization code it takes too long to run and you dont have to run it.
 
 ---
 *Author: Selman Sezgin | Statistics Student & FinTech Enthusiast*
