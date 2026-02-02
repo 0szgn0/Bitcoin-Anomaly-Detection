@@ -1,7 +1,7 @@
 # 🛡️ Bitcoin Illicit Transaction Detection (Anti-Money Laundering)
 
 
-# 👋 About The Project
+## 👋 About The Project
 
 This project is my attempt to solve a real-world financial problem: **Detecting illicit (illegal) transactions in the Bitcoin network.** I used the famous **Elliptic Data Set** to build a Machine Learning model that can flag suspicious activities like money laundering or ransomware payments.
 
