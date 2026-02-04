@@ -22,7 +22,7 @@ I treated this as a **Binary Classification** problem. Here is what I did:
 ## 📊 Results
 After optimizing the model, I tested it on unseen data. Here are the metrics for the **Illicit (Fraud)** class:
 
-* **Precision (0.98):** When my model says "This is illegal," it is **99%** likely to be true. (Very few false alarms).
+* **Precision (0.98):** When my model says "This is illegal," it is **98%** likely to be true. (Very few false alarms).
 * **Recall (0.90):** The model successfully caught **90%** of all illegal transactions in the test set.
 * **F1-Score (0.94):** The balance between precision and recall is excellent.
 
